@@ -22,16 +22,32 @@ $(".img5").on('click', function(){
     window.location.href = "Portfolio.html";
 });
 
-$("#link1").on('click', function(){
+$("#friendf").on('click', function(){
     window.location.href = "https://lasusan-friend-finder.herokuapp.com/home.html";
 });
 
-$("#link").on('click', function(){
+$("#shopify").on('click', function(){
     window.location.href = "https://rocky-mesa-95810.herokuapp.com/";
 });
 
-$("#link2").on('click', function(){
+$("#nutriprep").on('click', function(){
     window.location.href = "https://nlasusa.github.io/project1/";
+});
+
+$("#burger").on('click', function(){
+    window.location.href = "https://fathomless-oasis-90250.herokuapp.com/";
+});
+
+$("#trivia").on('click', function(){
+    window.location.href = "https://nlasusa.github.io/TriviaGame/";
+});
+
+$("#electric").on('click', function(){
+    window.location.href = "https://nlasusa.github.io/lasusaelectric/";
+});
+
+$("#trains").on('click', function(){
+    window.location.href = "https://nlasusa.github.io/train-schedule/";
 });
 
 $("#link4").on('click', function(){
